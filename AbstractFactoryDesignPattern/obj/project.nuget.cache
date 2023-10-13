@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ujZJSfOP/iltZsEfEeV21BVn8ZffBEEZlB++kfdxl9ZvwMXu9BPCG4edQ2Yr5yPPHySKQKEqW85wLHwPA2phNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\Downloads\\AbstractFactoryDesignPattern\\AbstractFactoryDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
